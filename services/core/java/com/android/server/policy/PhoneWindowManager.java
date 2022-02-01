@@ -246,7 +246,7 @@ import java.util.HashSet;
 import java.util.List;
 
 import com.android.internal.util.custom.NavbarUtils;
-import com.android.internal.custom.hardware.LineageHardwareManager;
+import com.android.internal.arrow.hardware.LineageHardwareManager;
 
 /**
  * WindowManagerPolicy implementation for the Android phone UI.  This

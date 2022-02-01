@@ -192,7 +192,7 @@ import com.android.server.statusbar.StatusBarManagerService;
 import com.android.server.utils.PriorityDump;
 import com.android.server.wm.WindowManagerInternal;
 
-import com.android.internal.custom.hardware.LineageHardwareManager;
+import com.android.internal.arrow.hardware.LineageHardwareManager;
 
 import java.io.FileDescriptor;
 import java.io.IOException;
